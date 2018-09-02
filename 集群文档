@@ -1,0 +1,4 @@
+# 集群搭配建议少量参考博客，主要步骤还是跟着官方文档
+### [Hadoop2.0集群搭建官方文档](http://hadoop.apache.org/docs/stable/)
+### [Hadoop单机伪分布](http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/SingleCluster.html)
+### [Hadoop集群搭建](http://hadoop.apache.org/docs/stable/hadoop-project-dist/hadoop-common/ClusterSetup.html)
