@@ -41,6 +41,9 @@ Connection activated
 五、eclipse中修改程序中错误时可通过保存的方式让eclipse重新判断新的程序
 
 
+六、需要下载hdfs上的文件，需要把C:\Windows\System32\drivers\etc里的hots文件加上地址和主机名，可能关闭hosts文件，再打开发现不能保存写入的内容，需要更改他的可写的权限。
+写入内容保存后，就可以download下载了。
+
 
  
 
